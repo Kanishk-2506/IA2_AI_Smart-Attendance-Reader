@@ -1,0 +1,27 @@
+{
+  "pca_components_used": 40,
+  "train_purity": 0.6687543493389004,
+  "test_purity": 0.6611111111111111,
+  "adjusted_rand_index": 0.5213089697207351,
+  "normalized_mutual_info": 0.667189839325971,
+  "train_time_seconds": 0.07816815376281738,
+  "predict_time_seconds": 0.0019888877868652344,
+  "best_silhouette_k": 12,
+  "silhouette_at_k10": 0.1477754842146542,
+  "cluster_to_digit": {
+    "0": 3,
+    "1": 1,
+    "2": 6,
+    "3": 5,
+    "4": 2,
+    "5": 7,
+    "6": 4,
+    "7": 0,
+    "8": 7,
+    "9": 4
+  },
+  "digits_without_own_cluster": [
+    8,
+    9
+  ]
+}

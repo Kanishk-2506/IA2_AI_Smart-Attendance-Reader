@@ -1,0 +1,10 @@
+{
+  "components_for_90_percent": 31,
+  "components_for_95_percent": 40,
+  "variance_pc1": 0.12039695277087677,
+  "variance_pc2": 0.09662687423064903,
+  "cumulative_variance_first_2": 0.21702382700152578,
+  "cumulative_variance_at_10": 0.5898176727934901,
+  "cumulative_variance_at_20": 0.7898940529296021,
+  "cumulative_variance_at_40": 0.951554400456521
+}

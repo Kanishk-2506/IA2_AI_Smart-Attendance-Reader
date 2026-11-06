@@ -1,0 +1,10 @@
+{
+  "best_architecture": "(64,)",
+  "test_accuracy": 0.9694444444444444,
+  "validation_accuracy": 0.9861111111111112,
+  "train_time_seconds": 5.19976544380188,
+  "predict_time_seconds": 0.002908468246459961,
+  "epochs_run": 162,
+  "n_misclassified": 11,
+  "n_test_images": 360
+}
